@@ -1,0 +1,678 @@
+Or this
+
+TITLE I: CRIMES AGAINST PERSONS
+
+§101 - Attempted Murder (PC 664/187)
+
+· The intentional attempt to unlawfully kill another human being with malice aforethought.
+· Sentence: 5, 7, or 9 years IRL base (300/420/540 mins RP) + $10,000 fine.
+
+§102 - Voluntary Manslaughter (PC 192(a))
+
+· Unlawful killing upon a sudden quarrel or heat of passion.
+· Sentence: 3, 6, or 11 years IRL (180/360/660 mins RP) + $10,000 fine.
+
+§103 - Assault with a Deadly Weapon (PC 245(a)(1))
+
+· Assault with a firearm, deadly weapon, or force likely to produce GBI.
+· Sentence: 2, 3, or 4 years IRL (120/180/240 mins RP) + $10,000 fine.
+
+§104 - Aggravated Assault (PC 245(a)(4))
+
+· Assault by means of force likely to produce GBI (without a weapon specified).
+· Sentence: 1, 2, or 4 years IRL (60/120/240 mins RP) + $10,000 fine.
+
+§105 - Simple Assault / Battery (PC 240/242)
+
+· Unlawful attempt/use of force/violence upon another.
+· Sentence: Misdemeanor. Up to 6 months IRL (180 mins RP) jail and/or $2,000 fine.
+
+§106 - Kidnapping (PC 207)
+
+· Unlawful seizure and movement of a person via force/fear.
+· Sentence: 3, 5, or 8 years IRL (180/300/480 mins RP) + $10,000 fine. Life for ransom.
+
+§107 - False Imprisonment (PC 236)
+
+· Unlawful violation of personal liberty.
+· Sentence: Misdemeanor: Up to 1 year IRL (360 mins RP) jail. Felony (violence/fraud): 16 mo/2/3 yrs IRL.
+
+§108 - Robbery (PC 211)
+
+· Taking property from person/presence by force/fear.
+· Sentence: 2, 3, or 5 years IRL (120/180/300 mins RP) + $10,000 fine. +1 year if armed.
+
+§109 - Criminal Threats (PC 422)
+
+· Threat to cause death/GBI causing sustained fear.
+· Sentence: Misdemeanor or Felony (16 mo/2/3 yrs IRL).
+
+§110 - Stalking (PC 646.9)
+
+· Course of conduct causing credible threat and fear.
+· Sentence: Misdemeanor or Felony (16 mo/2/3 yrs IRL).
+
+---
+
+TITLE II: CRIMES AGAINST PROPERTY
+
+§201 - Grand Theft (PC 487) - Vehicle (GTA)
+
+· Theft of vehicle/aircraft/watercraft valued over $950.
+· Sentence: Felony. 16 months, 2, or 3 years IRL (96/120/180 mins RP).
+
+§202 - Petty Theft (PC 488)
+
+· Theft of property under $950.
+· Sentence: Misdemeanor. Up to 6 months IRL jail (180 mins) and/or $1,000 fine.
+
+§203 - Burglary (PC 459)
+
+· Entering structure/vehicle with intent to commit theft/felony.
+· Sentence: 1st Degree (inhabited): 2, 4, or 6 years IRL. 2nd Degree: Misdemeanor or 16 mo/2/3 yrs IRL.
+
+§204 - Arson (PC 451)
+
+· Willful/malicious setting of fire to property/structure/forest.
+· Sentence: 2, 4, or 6 years IRL (Inhabited: 3, 5, or 8 yrs) + $10,000 fine.
+
+§205 - Vandalism (PC 594)
+
+· Malicious damage/defacement of property.
+· Sentence: Misdemeanor (<$400 damage) or Felony (>$400). Based on damage amount.
+
+§206 - Receiving Stolen Property (PC 496)
+
+· Knowingly buying/receiving/concealing stolen property.
+· Sentence: Misdemeanor or Felony (same as theft values).
+
+---
+
+TITLE III: CONTROLLED SUBSTANCES (HEALTH & SAFETY CODE)
+
+SPECIAL PROVISION: ADULT-USE CANNABIS (CALIFORNIA LAW)
+
+§301 - Personal Use & Possession of Cannabis (HSC 11362.1)
+
+· Legal for adults 21+. Possession of up to 28.5 grams of flower or 8 grams of concentrate is NOT a crime.
+· Public consumption is an infraction ($100 fine).
+· Possession of more than the legal limit is an infraction ($100 fine) for amounts up to 1 oz over.
+
+§302 - Illegal Sale/Transport of Cannabis (HSC 11360)
+
+· Sale, transportation for sale, or giving away of cannabis without a state license remains a crime.
+· Sentence: Misdemeanor: Up to 6 months jail. Felony (over age 18): 16 mo/2/3 yrs IRL.
+
+§303 - Cultivation of Cannabis (HSC 11358)
+
+· Cultivation of more than 6 living plants per adult, or any cultivation for sale without license.
+· Sentence: Misdemeanor (6+ plants personal) or Felony (sale).
+
+§304 - Possession of Controlled Substance (HSC 11350) - NON-CANNABIS
+
+· Possession of cocaine, heroin, methamphetamine, MDMA, etc.
+· Sentence: Misdemeanor. Up to 1 year IRL jail (360 mins RP).
+
+§305 - Possession for Sale (HSC 11351) - NON-CANNABIS
+
+· Possession of controlled substances with intent to sell.
+· Sentence: Felony. 2, 3, or 4 years IRL (120/180/240 mins RP).
+
+§306 - Transportation/Sale (HSC 11352) - NON-CANNABIS
+
+· Transporting, importing, selling controlled substances.
+· Sentence: Felony. 3, 4, or 5 years IRL (180/240/300 mins RP).
+
+§307 - Manufacturing (HSC 11379.6) - NON-CANNABIS
+
+· Manufacturing or compounding controlled substances.
+· Sentence: Felony. 3, 5, or 7 years IRL (180/300/420 mins RP).
+
+---
+
+TITLE IV: FIREARMS & WEAPONS
+
+§401 - Felon in Possession of Firearm (PC 29800)
+
+· Possession of any firearm by a convicted felon.
+· Sentence: Felony. 16 months, 2, or 3 years IRL.
+
+§402 - Carrying a Concealed Firearm without Permit (PC 25400)
+
+· Carrying a concealable firearm in public without a CCW.
+· Sentence: Misdemeanor or Felony. 16 mo/2/3 yrs IRL.
+
+§403 - Carrying a Loaded Firearm in Public (PC 25850)
+
+· Carrying a loaded firearm in public (not locked in trunk).
+· Sentence: Misdemeanor or Felony.
+
+§404 - Possession of Prohibited Weapons (PC 16590)
+
+· Short-barreled shotgun/rifle, assault weapon, silencer, brass knuckles, etc.
+· Sentence: Felony. 16 mo/2/3 yrs IRL.
+
+§405 - Brandishing a Weapon (PC 417)
+
+· Drawing/exhibiting firearm in angry/threatening manner.
+· Sentence: Misdemeanor. 30 days to 1 year IRL jail.
+
+---
+
+TITLE V: CRIMES AGAINST PUBLIC JUSTICE
+
+§501 - Evading Peace Officer (VC 2800.1)
+
+· Willful evasion of a pursuing peace officer's vehicle.
+· Sentence: Misdemeanor. Up to 1 year IRL jail. Felony if reckless (PC 2800.2).
+
+§502 - Resisting Arrest (PC 148(a)(1))
+
+· Willfully resisting/delaying/obstructing a peace officer.
+· Sentence: Misdemeanor. Up to 1 year IRL jail and/or $1,000 fine.
+
+§503 - Impersonating a Peace Officer (PC 538d)
+
+· Falsely representing oneself as a peace officer.
+· Sentence: Misdemeanor. Fine and up to 1 year IRL jail.
+
+---
+
+TITLE VI: TRAFFIC OFFENSES (VEHICLE CODE)
+
+(Primarily Infractions with fines, elevated to misdemeanors for repeat/hazardous)
+
+§601 - Driving Under the Influence (DUI) (VC 23152)
+
+· Driving under the influence of alcohol/drugs (BAC ≥0.08%).
+· Sentence: 1st Offense: Misdemeanor. 48 hrs to 6 months IRL jail, $390-$1,000 fine, license suspension. Felony for injury or 4th+ offense.
+
+§602 - Hit and Run (VC 20002)
+
+· Leaving the scene of an accident causing property damage.
+· Sentence: Misdemeanor. Up to 6 months IRL jail and/or $1,000 fine. Felony if injury (VC 20001).
+
+§603 - Reckless Driving (VC 23103)
+
+· Driving with willful/wanton disregard for safety.
+· Sentence: Misdemeanor. 5 to 90 days IRL jail and/or $145-$1,000 fine.
+
+---
+
+TITLE VII: SENTENCING FRAMEWORK & PAROLE
+
+Standard IRL to In-Game Time Conversion: 1 IRL minute = 1 in-game day served.
+
+Parole (PC 3000):
+
+· Mandatory after release from a state prison sentence.
+· Parole period = 3 IRL days for most felonies, 5 IRL days for violent felonies.
+· Parolee must check in with Parole Agent and obey all conditions (no firearms, submit to search, maintain employment RP).
+
+Probation:
+
+· A court-ordered alternative to jail. Period = 1 to 5 IRL days.
+· Probationer must check in with Probation Officer and avoid new arrests.
+
+Fines: Use real California base fines + penalties. Example structure for server economy:
+
+· Infraction: $100 - $500
+· Misdemeanor: $1,000 - $3,000
+· Felony: $5,000 - $20,000+
+
+Three Strikes Law (PC 667): (Optional for high-realism)
+
+· A defendant with two or more prior "strike" convictions (violent/serious felonies) faces a mandatory sentence of 25 years to life IRL (a very long, essentially "perma-character" RP sentence for extreme repeat offenders).
+
+1. TRAFFIC & VEHICLE CODE
+
+DUI Procedures
+
+· Field Sobriety Testing (FST): Mandatory for suspected impairment. Includes Horizontal Gaze Nystagmus (HGN), Walk-and-Turn, One-Leg Stand. Refusal = automatic arrest.
+· Chemical Testing: Breathalyzer (PAS) at scene. Blood test at hospital if suspect refuses or is unconscious. Refusal = 1-year license suspension + enhanced charges.
+· Impound: Vehicle impounded for 30 days (RP: 30 IRL minutes) for DUI arrest.
+· Tiered Penalties:
+  · 1st Offense: Misdemeanor. 48 hrs - 6 months IRL jail (96-180 mins RP), $1,500 fine, 6-month license suspension.
+  · 2nd Offense (within 10 years): Misdemeanor. 96 hrs - 1 year IRL jail (192-360 mins RP), $2,800 fine, 2-year license suspension.
+  · 3rd Offense: Felony. 120 days - 1 year IRL jail (240-360 mins RP), $5,000 fine, 3-year license revocation.
+  · DUI with Injury: Felony. 16 months - 4 years IRL prison (96-240 mins RP), $10,000 fine, 5-year revocation.
+
+Reckless Driving
+
+· Definition: Willful/wanton disregard for safety of persons/property.
+· Standard: Misdemeanor. 5-90 days IRL jail (10-180 mins RP), $1,000 fine.
+· With Injury: "Reckless Driving Causing Injury" - Felony. 16 months - 3 years IRL (96-180 mins RP), $5,000 fine.
+· Exhibition of Speed: Infraction. $250 fine, vehicle impound 7 days.
+
+Hit-and-Run
+
+· Property Damage Only (VC 20002): Misdemeanor. Up to 6 months IRL jail (180 mins RP), $1,000 fine.
+· With Injury (VC 20001): Felony. 2-4 years IRL prison (120-240 mins RP), $10,000 fine.
+· With Death: Felony. 4-6 years IRL prison (240-360 mins RP), $20,000 fine.
+· Mandatory: Report accident to LEO within 24 hours RP.
+
+Vehicle Registration & Licensing
+
+· Expired Registration: Infraction. $100 fine + $50 per month overdue.
+· No Registration: Misdemeanor. $500 fine, vehicle towed.
+· Driving Without License: Infraction. $250 fine.
+· Driving on Suspended/Revoked: Misdemeanor. 10 days - 1 year IRL jail (20-360 mins RP), $1,500 fine.
+· Commercial Licensing: Required for trucks, buses. Violation = $1,000 fine.
+
+Traffic Fines Table (Quick Reference)
+
+Violation Code Classification Fine RP Minutes Points
+Speeding 1-15 mph over VC 22349 Infraction $100 - 1
+Speeding 16-25 mph over VC 22350 Infraction $200 - 1
+Speeding 26+ mph over VC 22348(b) Misdemeanor $500 30 2
+Red Light Violation VC 21453 Infraction $150 - 1
+Stop Sign Violation VC 22450 Infraction $100 - 1
+Illegal U-Turn VC 22102 Infraction $150 - 1
+No Insurance Proof VC 16028 Infraction $300 - 0
+Modified Exhaust VC 27151 Infraction $200 - 0
+Window Tint < 70% VC 26708 Infraction $150 - 0
+Points System: 4+ points in 12 months = 30-day suspension. 6+ points = 6-month suspension.     
+
+---
+
+2. COURT & LEGAL PROCEDURES
+
+Arrest → Booking → Trial Workflow
+
+```
+1. ARREST: 
+   - Mirandize suspect (if interrogating)
+   - Transport to nearest station/holding
+
+2. BOOKING:
+   - Photograph, fingerprints, property inventory
+   - Criminal record check
+   - Medical screening (EMS if injured)
+   - Cell assignment based on severity
+
+3. INITIAL APPEARANCE:
+   - Within 48 IRL minutes of arrest
+   - Judge advises charges, rights
+   - Bail determination
+
+4. PRELIMINARY HEARING:
+   - 3 IRL days after arrest
+   - DA presents evidence
+   - Judge determines if case proceeds
+
+5. ARRAIGNMENT:
+   - Defendant enters plea
+   - Trial date set (7 IRL days for misdemeanor, 14 for felony)
+
+6. TRIAL:
+   - Jury selection (6-12 players for felonies)
+   - Presentation of evidence
+   - Witness testimony
+   - Closing arguments
+   - Jury deliberation (max 30 IRL minutes)
+   - Verdict
+
+7. SENTENCING:
+   - 3 IRL days after conviction
+   - Judge imposes sentence per NCSPC
+```
+
+Bail/Bond System
+
+· Bail Schedule:
+  · Misdemeanor: $2,500 - $25,000
+  · Felony: $25,000 - $1,000,000
+  · Violent Felony: No bail or $500,000+
+· 10% Bond Option: Pay 10% to bondsman for release.
+· OR Release: Own Recognizance for minor first offenses.
+
+Evidence Handling
+
+· Chain of Custody: Required log for all evidence.
+· Storage: Evidence locker with officer's name, date, case number.
+· DNA/Fingerprints: Sent to state lab (RP: results in 7 IRL days).
+· Body Cam: Mandatory for all LEO interactions. Footage stored 90 days.
+
+Court Roles
+
+· Judge: Presides over court, rules on objections, sentences.
+· District Attorney (DA): Prosecutes cases, files charges.
+· Public Defender (PD): Defends indigent clients.
+· Clerk: Manages docket, swears in witnesses, maintains records.
+· Bailiff: Court security, transports prisoners.
+· Jury: 6 members for misdemeanor, 12 for felony. Selected from player pool.
+
+---
+
+3. LAW ENFORCEMENT SOPs
+
+Arrest Procedures
+
+1. Probable Cause: Required for arrest.
+2. Miranda Warning: Required before interrogation.
+3. Handcuffing: Standard for felony arrests, discretionary for misdemeanor.
+4. Search Incident to Arrest: Permissible of person and immediate area.
+5. Inventory Search: Required of vehicle upon impound.
+
+Use-of-Force Matrix
+
+```
+LEVEL 1: Verbal Commands
+LEVEL 2: Soft Empty Hand Control (wrist locks, pressure points)
+LEVEL 3: Hard Empty Hand Control (takedowns, strikes)
+LEVEL 4: Intermediate Weapons (baton, taser, OC spray)
+LEVEL 5: Lethal Force (firearms)
+
+ESCALATION: Must attempt de-escalation before moving up levels.
+JUSTIFICATION: Force must be objectively reasonable for the threat.
+```
+
+Pursuit Rules
+
+· Authorization Required: Supervisor must approve pursuits.
+· Termination Conditions:
+  · Speeds exceed 120 mph
+  · Residential/school zones
+  · Extreme danger to public
+  · Air unit available
+· PIT Maneuver: Only for violent felonies with supervisor approval.
+
+Citation vs. Arrest Decision Matrix
+
+```
+             │ Minor Offense │ Serious Offense │ Violent Offense
+─────────────┼───────────────┼─────────────────┼───────────────
+Cooperative  │ Citation      │ Arrest          │ Arrest
+─────────────┼───────────────┼─────────────────┼───────────────
+Uncooperative│ Arrest        │ Arrest          │ Arrest + Force
+─────────────┼───────────────┼─────────────────┼───────────────
+Fleeing      │ Pursue/Cite   │ Pursue/Arrest   │ Pursue/Arrest
+```
+
+---
+
+4. EMERGENCY SERVICES PROTOCOLS
+
+EMS Response Tiers
+
+· Alpha: Non-urgent (minor injury) - 10 minute response time RP
+· Bravo: Urgent (serious injury) - 5 minute response time RP
+· Charlie: Critical (life-threatening) - 2 minute response time RP
+· Delta: Mass Casualty Incident (MCI) - All units response
+
+Medical Treatment RP
+
+· Triage Tags:
+  · Green: Walking wounded
+  · Yellow: Delayed treatment
+  · Red: Immediate treatment
+  · Black: Deceased/unsalvageable
+· Hospital Procedures:
+  · Check-in at Pillbox/St. Fiacre
+  · Treatment time based on injury (5-30 IRL minutes)
+  · Medical bills: $500 - $10,000 based on treatment
+  · Death RP: Must spend 60 IRL minutes "dead" before respawn at hospital
+
+Fire Department Protocols
+
+· Structure Fire: Evacuate area, contain, extinguish
+· Vehicle Fire: Secure scene, extinguish, Hazmat if needed
+· Rescue: Extrication from vehicles, high-angle rescue
+· Arson Investigation: Work with LEO to determine cause
+
+---
+
+5. CIVIL & ADMINISTRATIVE LAW
+
+Tenant/Landlord Disputes
+
+· Eviction Process: 30-day notice, court hearing, sheriff enforcement
+· Security Deposits: Return within 21 days of move-out
+· Habitability: Landlord must maintain livable conditions
+
+Business Licensing
+
+· Application: $5,000 fee, background check, zoning approval
+· Types:
+  · Retail: $2,000 annual renewal
+  · Restaurant: $3,000 + health inspection
+  · Club/Bar: $5,000 + alcohol license ($10,000)
+  · Medical Cannabis: $50,000 + strict regulations
+· Taxes: 8% sales tax collected, filed monthly
+
+Small Claims Court
+
+· Limit: $10,000 disputes
+· Process: File claim, mediation, hearing before commissioner
+· Enforcement: Sheriff can enforce judgments
+
+Insurance Claims
+
+· Vehicle: Required minimum $15,000 liability
+· Health: Optional, reduces medical bills 80%
+· Property: Optional for businesses/homes
+· Claims Process: File with insurer, investigation (3 IRL days), payout
+
+---
+
+6. GOVERNMENT & CIVIC CODES
+
+City Ordinances
+
+· Noise Ordinance: 10 PM - 7 AM quiet hours ($250 fine)
+· Public Nuisance: Littering, public intoxication, obstruction ($100-500)
+· Park Rules: No camping, no open fires, no alcohol
+· Vending: Licensed vendors only in designated areas
+
+Building Codes
+
+· Permits Required: Construction, renovation, signage
+· Inspections: Electrical, plumbing, structural
+· Zoning: Residential, commercial, industrial, mixed-use
+
+Government Offices
+
+· City Hall: Business licenses, marriage certificates, records
+· DMV: Vehicle registration, driver's licenses
+· Courthouse: All legal proceedings
+· Public Works: Road maintenance, utilities
+
+Elections
+
+· Mayor: Elected every 30 IRL days
+· City Council: 5 members, elected every 60 IRL days
+· Sheriff: Elected every 60 IRL days
+· Judge: Appointed by mayor, confirmed by council
+
+---
+
+7. CRIMINAL RECORDS DATABASE
+
+Record Categories
+
+```
+PERSONAL RECORD:
+- Name, DOB, SSN
+- Physical description
+- Known aliases
+- Current address
+
+CRIMINAL HISTORY:
+- Arrests
+- Convictions
+- Sentences served
+- Parole/probation status
+
+ACTIVE STATUS:
+- Warrants (with photo)
+- Restraining orders
+- Gang affiliations
+- Known associates
+
+REGISTRIES:
+- Firearms (serial numbers)
+- Vehicles (VINs)
+- Sex offenders
+- Parolees
+```
+
+Warrant Types
+
+· Bench Warrant: Failure to appear in court
+· Arrest Warrant: Probable cause for arrest
+· Search Warrant: Probable cause for search
+· No-Knock Warrant: Dangerous suspects, approved by judge
+
+Stolen Property Log
+
+· Vehicles: VIN, plate, description, owner
+· Firearms: Serial, type, owner
+· Other: Jewelry, electronics, art (with photos)
+
+---
+
+8. FINES & ECONOMY REFERENCE
+
+Quick-Lookup Fine Table
+
+Offense Level Base Fine Repeat Offense With Injury With Death
+Infraction $100-500 +100% N/A N/A
+Misdemeanor $1,000-3,000 +50% +$2,000 +$5,000
+Felony $5,000-20,000 +25% +$5,000 +$15,000
+Violent Felony $10,000-50,000 No reduction Included Included
+
+Server Economy Conversion
+
+```
+REAL WORLD → SERVER ECONOMY:
+- Minimum wage: $15/hr IRL → $150/hr server
+- Vehicle costs: $20,000 IRL → $200,000 server
+- Housing: $500,000 IRL → $5,000,000 server
+- Fines: As above (direct conversion)
+
+INCOME SOURCES:
+- Jobs: $150-$500/hr
+- Businesses: $500-$5,000/day profit
+- Government: Welfare $500/week if unemployed
+```
+
+Repeat Offender Multipliers
+
+· 2nd Offense: Fine ×1.5, Time ×1.25
+· 3rd Offense: Fine ×2.0, Time ×1.5
+· 4th+ Offense: Fine ×3.0, Time ×2.0 + mandatory max sentence
+
+---
+
+9. SCENARIO & ROLEPLAY CONTEXT
+
+Common RP Situation Guidelines
+
+TRAFFIC STOP:
+
+```
+1. Officer: Lights on, position safely
+2. Driver: Pull over, hands on wheel
+3. Officer: Approach, request license/registration
+4. Driver: Provide documents, state purpose of travel
+5. Officer: Run checks, decide citation/arrest
+6. Driver: Comply or face escalation
+```
+
+PURSUIT:
+
+```
+1. Initiation: Lights/siren, suspect fails to yield
+2. Pursuit: Maintain visual, call for backup
+3. Termination: PIT/spike strips/roadblock if authorized
+4. Arrest: High-risk stop procedure, K9 if needed
+```
+
+ROBBERY IN PROGRESS:
+
+```
+1. Dispatch: Code 211, location, suspect description
+2. Response: Multiple units, perimeter established
+3. Containment: Secure exits, hostage negotiator if needed
+4. Resolution: Arrest or lethal force if immediate threat
+```
+
+DOMESTIC VIOLENCE:
+
+```
+1. Response: Two officers minimum
+2. Assessment: Separate parties, check for injuries
+3. Determination: Primary aggressor identified
+4. Arrest: If probable cause, mandatory arrest for violence
+5. Resources: Provide shelter information, restraining order
+```
+
+Charge Escalation Matrix
+
+Base Charge + Weapon + Injury + Fleeing + Prior = Upgraded To
+Simple Assault ADW Agg. Assault Resisting Same Felony Assault
+Theft Robbery Great Bodily Injury Evading 2+ priors Felony Robbery
+DUI Vehicular Assault DUI w/ Injury Felony Evading 3rd DUI Felony DUI
+Possession Armed Assault while armed Evading Sales priors Possession for Sale + ADW
+
+---
+
+10. EXCEPTIONS & SPECIAL RULES
+
+Minors (Under 21)
+
+· Arrest: Transport to juvenile hall, notify parents
+· Sentencing: Juvenile court, focus on rehabilitation
+· Records: Sealed at 18 unless violent felony
+· Curfew: 10 PM - 6 AM for under 18 ($100 fine to parents)
+
+Public Officials
+
+· Mayor/Judge/Sheriff: Immune from minor traffic citations while on duty
+· Arrest: Requires supervisor approval + internal affairs notification
+· Special Handling: Transport to separate holding, expedited bail
+
+Gang-Related Activity
+
+· Enhancements: +5 years for crimes committed for gang
+· Database: Gang member registry
+· Trespassing: Automatic gang injunctions in certain areas
+· Probation: No contact with known gang members
+
+Edge Cases & Unusual Situations
+
+MENTAL HEALTH CRISIS:
+
+```
+1. CIT Trained Officer required
+2. De-escalation priority
+3. Transport to psychiatric facility, not jail
+4. 72-hour hold for evaluation
+```
+
+SOVEREIGN CITIZEN:
+
+```
+1. Do not argue ideology
+2. Issue citations based on observable violations
+3. Arrest if non-compliant
+4. Let courts handle legal arguments
+```
+
+OFF-DUTY OFFICER INVOLVEMENT:
+
+```
+1. Identify as officer immediately
+2. Take command if no on-duty present
+3. Follow same use-of-force rules
+4. File report as involved citizen
+```
+
+ANIMAL-RELATED INCIDENTS:
+
+```
+1. Animal Control primary for non-dangerous
+2. LEO for dangerous animals
+3. Shoot only if immediate human threat
+4. Owner liable for damages/injuries
+```
