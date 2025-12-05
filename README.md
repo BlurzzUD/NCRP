@@ -72,8 +72,3 @@ Install them with:
 pip install -r requirements.txt
 ```
 
----
-
-## License
-
-Add your preferred license here (MIT, GPL, etc.).
